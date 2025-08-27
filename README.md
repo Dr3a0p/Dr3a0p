@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dr3a0p
 - Interested in Cyber Security and Cyber Forensics.
-- 🌱 I’m currently learning for any beginner friendly occupations/internships.
+- 🌱 I’m currently open for any beginner friendly occupations/internships.
 - 💞️ I’m looking to collaborate on any fun projects that'll help me put my skills to practice!
 - 📫 How to reach me: email me! @ dreandreax@icloud.com/ and,or dreacast95@gmail.com
 - 😄 Part of UT Austin's alumni, graduated with Full Stack Web Development.
